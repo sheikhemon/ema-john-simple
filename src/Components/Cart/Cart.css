@@ -1,0 +1,23 @@
+.cart {
+    position: fixed;
+    background-color: rgba(15, 14, 14, 0.904);
+    color: white;
+    height: 400px;
+    width: 300px;
+    border: 2px solid blanchedalmond;
+    border-radius: 8px;
+    margin-left: 40px;
+    margin-top: 30px;
+    text-align: left;
+    padding: 20px 15px;
+    box-shadow: #ffeed4 0px 5px 5px -2px, rgba(226, 226, 226, 0.05) 0px 4px 6px -2px;
+}
+
+.cart h2 {
+    margin-bottom: 30px;
+}
+
+.cart p {
+    margin-top: 20px;
+    font-weight: 600;
+}
